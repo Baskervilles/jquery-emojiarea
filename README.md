@@ -1,7 +1,7 @@
 *NOTICE* This extends the [original plugin](https://github.com/diy/jquery-emojiarea) by groups. (See screenshot at dropdown menu)
 
 #### About this extension
-This was originally created for my project [*The Msngr*](https://github.com/GittiHab/TheMsngr), which is now open source too. I am always happy about an attribution to me and my website, e.g. [\<a href="https://pius-ladenburger.de">Pius Ladenburger\</a>](https://pius-ladenburger.de).
+This was originally created for my project *The Msngr*, which should have become an open-source end-to-end encrypted messanger. I am always happy about an attribution to me and my website, e.g. [\<a href="https://pius-ladenburger.de">Pius Ladenburger\</a>](https://pius-ladenburger.de).
 
 I hope this helps you and makes your day easier.
 
